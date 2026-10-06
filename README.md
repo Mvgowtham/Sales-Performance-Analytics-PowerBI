@@ -17,4 +17,4 @@ This project presents an interactive **Sales Performance Analytics Dashboard** b
 * **DAX Calculations**: Created 10+ core measures including Time Intelligence, YoY Growth %, Profit Margin %, and AOV.
 
 ## 📸 Dashboard Preview
-![Sales Dashboard Preview](Sales_Dashboard_Preview.jpg)
+![Sales Dashboard Preview](Sales_Dashboard_Preview.png)
